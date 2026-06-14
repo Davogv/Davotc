@@ -6,7 +6,7 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/George202606/Jdominio```
+```bash $ git clone https://github.com/Davogv/Davotc```
 
 ```bash $ cd Jdominio```
 
